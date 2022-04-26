@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("💫 Join Channel 💫?", url="https://t.me/newallmoviesx"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
-                ],
+                    InlineKeyboardButton("CHANNEL 📺", url="https://t.me/newallmoviesx"),
+                    InlineKeyboardButton("ABOUT ME 😌", callback_data="about_data")
+                ]
                 [
-                    InlineKeyboardButton("Channel", url="https://t.me/newallmoviesx"),
-                    InlineKeyboardButton("Our Group", url="https://t.me/newallmoviesxgroup")
+                    InlineKeyboardButton("MAIN CHANNEL 🔥", url="https://t.me/newallmoviesx"),
+                    InlineKeyboardButton("GROUP 🍿", url="https://t.me/newallmoviesxgroup")
                 ]
             ]
         ),
