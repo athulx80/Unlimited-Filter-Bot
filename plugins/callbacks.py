@@ -30,7 +30,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Command Help", callback_data="help_data")
+                    InlineKeyboardButton("COMMAND HELP", callback_data="help_data")
                 ]
             ]
         )
@@ -47,12 +47,12 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("💫 Join Channel 💫", url="https://youtu.be/newallmoviesx"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
+                    InlineKeyboardButton("JOIN HERE ♥️", url="https://t.me/newallmoviesx")
+                    InlineKeyboardButton("ABOUT ME 😌", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("Channel", url="https://t.me/newallmoviesx"),
-                    InlineKeyboardButton("Our Group", url="https://t.me/newallmoviesxgroup")
+                    InlineKeyboardButton("CHANNEL 📺", url="https://t.me/newallmoviesx"),
+                    InlineKeyboardButton("GROUP 🍿", url="https://t.me/newallmoviesxgroup")
                 ]
             ]
         )
@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/athulx80/Unlimited-Filter-Bot")
+                        "SOURCE CODE ⚙️", url="https://github.com/athulx80/Unlimited-Filter-Bot")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
