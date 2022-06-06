@@ -47,11 +47,11 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("JOIN HERE ♥️", url="https://t.me/newallmoviesx")
+                    InlineKeyboardButton("SUB CHANNEL ❤️", url="https://t.me/newallmoviesx")
                     InlineKeyboardButton("ABOUT ME 😌", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("CHANNEL 📺", url="https://t.me/newallmoviesx"),
+                    InlineKeyboardButton("MAIN CHANNEL 📺", url="https://t.me/newallmoviesx"),
                     InlineKeyboardButton("GROUP 🍿", url="https://t.me/newallmoviesxgroup")
                 ]
             ]
