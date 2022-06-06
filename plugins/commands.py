@@ -243,7 +243,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("CHANNEL 📺", url="https://t.me/newallmoviesx"),
+                    InlineKeyboardButton("SUB CHANNEL 📺", url="https://t.me/newallmoviesx"),
                     InlineKeyboardButton("ABOUT ME 😌", callback_data="about_data")
                 ]
                 [
