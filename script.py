@@ -10,7 +10,7 @@ See <i>/help</i> for commands and more details.</b>
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>Add me as admin in your group and start filtering</i>
 
 
 <b>Basic Commands;</b>
@@ -48,17 +48,17 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b> <a href='https://t.me/newallmoviesxgroup'>⭕𝐌𝐎𝐕𝐈𝐄𝐒 𝐄𝐌𝐏𝐈𝐑𝐄🍿</a>
+<b> <a href='https://t.me/newallmoviesxgroup'>© 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘</a>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : 𝐌𝐎𝐕𝐈𝐄𝐒 𝐄𝐌𝐏𝐈𝐑𝐄 𝐅𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭</b>
+    ABOUT_MSG = """⭕️<b>My Name : Unlimited Filter Bot</b>
 
-⭕️<b>𝐂𝐫𝐞𝐚𝐭𝐨𝐫 :</b> <a href='https://t.me/athulx80'>𝐀𝐭𝐡𝐮𝐥</a>
+⭕️<b>Developer :</b> <a href='https://t.me/athulx80'>Athul</a>
 
-⭕️<b>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 :</b> <code>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</code>
+⭕️<b>Language :</b> <code>Python3</code>
 
-⭕️<b>𝐋𝐢𝐛𝐫𝐚𝐫𝐲 :</b> <a href='https://docs.pyrogram.org/'>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝟏.𝟎.𝟕</a> 
+⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Program 1.0.7</a> 
 
-⭕<b>𝐂𝐡𝐚𝐧𝐧𝐞𝐥 :</b> <a href='https://t.me/newallmoviesx'>𝐉𝐨𝐢𝐧 𝐇𝐞𝐫𝐞</a>
+⭕<b>Channel :</b> <a href='https://t.me/newallmoviesx'>Join Here</a>
 """
